@@ -1,0 +1,14 @@
+.mwp-inter-thankyou {
+	text-align:center !important;
+}
+.mwp-inter-thankyou .content {
+	margin:50px 0px;
+}
+.mwp-inter-thankyou .content h3 {color:#000;font-size:36px;text-transform:uppercase;line-height:36px;}
+.mwp-inter-thankyou .content p {color:#000;font-size:18px;margin:20px 0px !important;}
+.mwp-inter-thankyou .content img {margin:0 auto;}
+.mwp-inter-thankyou .content a {margin:0 auto;font-size:28px;padding:10px 45px;background:#00AB66;color:#FFF;text-transform:uppercase;}
+.mwp-inter-thankyou .content .button-thankyou-copy {display:flex;justify-content: center;}
+.mwp-inter-thankyou .content .button-thankyou-copy input {padding:10px 25px;background:#EEE;border:0px;width:300px;}
+.mwp-inter-thankyou .content .button-thankyou-copy button {display:flex;align-items: center;padding:10px 25px;background:#00AB66;color:#FFF;text-transform:uppercase;}
+.mwp-inter-thankyou .content .button-thankyou-copy button svg {margin-right:10px;}
